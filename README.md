@@ -3,7 +3,7 @@
 # REGISTRATION NUMBER : 212224040281
 
 # AIM:
-### To study the problem statement ,SRS,Document and draw all the UML diagrams of "LIBRARY MANAGEMENT SYSTEM".
+To study the problem statement ,SRS,Document and draw all the UML diagrams of "LIBRARY MANAGEMENT SYSTEM".
 
 # SRS (Procedure):
 ### 1.In use case diagram it consists of Actors, use cases, Association.
@@ -20,6 +20,9 @@
 ### 4.SEQUENCE DIAGRAM
 ### 5.ACTIVITY DIAGRAM
 ### 6.COMMUNICATION DIAGRAN
+
+
+
 
 ## USE DIAGRAM DIAGRAM:
 ![USE CASE 2](https://github.com/user-attachments/assets/a5aae7f2-7e9c-4b7c-9e26-4e6c1391634b)

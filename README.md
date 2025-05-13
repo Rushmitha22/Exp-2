@@ -20,9 +20,9 @@ To study the problem statement ,SRS,Document and draw all the UML diagrams of "L
 ### 4.SEQUENCE DIAGRAM
 ### 5.ACTIVITY DIAGRAM
 ### 6.COMMUNICATION DIAGRAN
-###
-###
-###
+###                                             
+###                                           
+###                                                          
 
 
 ## USE DIAGRAM DIAGRAM:
